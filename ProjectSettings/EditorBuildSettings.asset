@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Login Menu.unity
+    guid: 4166a4d8dd5174642834894b6471cfb1
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e1a90a684aa5c3b43a6f8865dc6b4296
+  - enabled: 0
+    path: Assets/Scenes/Settings.unity
+    guid: 506a5e3f6aee96f4f84eb58519e40d58
+  - enabled: 0
+    path: Assets/Scenes/Improved Chess Board.unity
+    guid: d3a4682a539fddf4e878722e6ca35e7a
+  - enabled: 0
+    path: Assets/Scenes/BattleScene.unity
+    guid: 8d078817e2fd4b341ae3f194f8d13072
   m_configObjects: {}
